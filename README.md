@@ -1,6 +1,6 @@
 # my-portfolio
 
-project portofolio buat ngelatih codingan gw, dan gw mau nambahin css responsive
+project portofolio buat ngelatih codingan gw, dan gw mau coba nambahin css responsive, itu pun kalau berhasil 😅.
 
 # Akses portofolio di link ini 👇
 
