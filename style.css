@@ -201,8 +201,11 @@ footer {
 @media screen and (max-width: 600px) {
   /* navbar */
   nav {
-    display: block;
+    display: flex;
+    flex-direction: column;
     position: sticky;
+    justify-content:center;
+    align-items: center;
     top: 0;
     text-align: center;
   }
