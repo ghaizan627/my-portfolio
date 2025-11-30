@@ -241,6 +241,7 @@ footer {
   }
   #about .about-content p {
     margin: 20px auto;
+    width: 100%;
   }
 
   /* project */
