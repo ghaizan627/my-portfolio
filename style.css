@@ -242,6 +242,7 @@ footer {
   #about .about-content p {
     margin: 20px auto;
     width: 100%;
+    box-sizing: border-box;
   }
 
   /* project */
